@@ -2,7 +2,7 @@
 [Tin] ima 0 pobjeda i 0 poraza!
 
 
-. x o
+o x o
 . x o
 . x .
 
