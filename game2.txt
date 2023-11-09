@@ -2,5 +2,5 @@
 [Tin] ima 0 pobjeda i 0 poraza!
 
 o . .
-o . x
+o x x
 . . x
