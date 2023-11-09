@@ -1,6 +1,8 @@
 [Marina] ima 0 pobjeda i 0 poraza!
 [Tin] ima 0 pobjeda i 0 poraza!
 
+
 . x o
-. x .
+. x o
 . . .
+
