@@ -1,5 +1,5 @@
-[Marina] ima 0 pobjeda i 0 poraza!
-[Tin] ima 0 pobjeda i 0 poraza!
+[Marina] ima 1 pobjeda i 1 poraza!
+[Tin] ima 1 pobjeda i 1 poraza!
 
 
 o x o
